@@ -7,7 +7,7 @@
    - Scroll down and download the google-services.json file.
    - Paste this file in your Android project's root/app directory.
    - Keep this file safe, and confidential.
-6. I dont' remember it will, but there was a need to find my laptop's SHA-1 and SHA-256 signatures.
+6. I dont' remember it well, but I think there was a need to find my laptop's SHA-1 and SHA-256 signatures.
    - There was a command to find these signatures, use chatpgpt to find this command.
    - Paste the obtained signatures in the bottom most section - `SHA certificate fingerprints` of your firebase project settings.
 #
