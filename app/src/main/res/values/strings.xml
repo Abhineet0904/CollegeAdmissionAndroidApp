@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">CollegePro</string>
+
+    <string-array name="gender_list">
+
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+
+    </string-array>
+
+    <string-array name="quota_list">
+
+        <item>Quota</item>
+        <item>Open</item>
+        <item>EWS</item>
+        <item>NT(B)</item>
+        <item>OBC</item>
+        <item>SC</item>
+        <item>ST</item>
+
+    </string-array>
+
+</resources>
