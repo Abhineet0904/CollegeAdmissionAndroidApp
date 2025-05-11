@@ -16,7 +16,7 @@
 2. Students can :
    - Signup by entering their details and uploading required documents.
    - Login/logout.
-   - Apply for any course by selecting any degree and then any college that offers that degree.
+   - Apply for any course by selecting any degree and then selecting any college that offers that degree.
    - Student can also view their application status.
 3. College admins can :
    - Signup by entering college details and uploading UGC approval certificate.
